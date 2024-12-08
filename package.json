@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Discover an extensive range of products across various categories, including fashion, electronics, home goods, beauty products, and more. Our user-friendly interface ensures a seamless shopping experience, while our secure payment options and reliable delivery services provide peace of mind. Enjoy exclusive deals, discounts, and promotions tailored just for you. Shop now and experience the best in online shopping!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "Paul Varghese Shibu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
